@@ -141,6 +141,7 @@ $(function() {
 		);
 
 		showBill();
+
 	});
 
 	var timelineBlocks = $('.cd-timeline-block'),
